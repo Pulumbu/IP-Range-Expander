@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://yoicpzfjgtpydcvycbus.supabase.co/storage/v1/object/public/pulumbu-logo//whitelogo.png"  />
+  <img height="100" src="https://yoicpzfjgtpydcvycbus.supabase.co/storage/v1/object/public/pulumbu-logo//whitebg_logo.png"  />
 </div>
 
 ###
